@@ -22,6 +22,8 @@ if ($session_id) {
         echo "Invalid session data received.";
     }
 } else {
+    
+    echo "No session ID found.";
     echo "No session ID found.";
 }
 ?>
