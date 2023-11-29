@@ -25,5 +25,6 @@ if ($session_id) {
     
     echo "No session ID found.";
     echo "No session ID found.";
+    echo "No session ID found.";
 }
 ?>
